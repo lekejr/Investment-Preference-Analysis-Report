@@ -7,12 +7,14 @@
 - [Goals of the Analysis](#goals-of-the-analysis)  
 - [Methodology](#methodology)  
 - [Key Insights](#key-insights)
-- [Strategic Recommendations](#strategic-recommendations)  
+- [Recommendations](#recommendations)  
 - [Conclusion](#conclusion)  
 
 
 ##  Overview
 This project presents a visual analysis of investor behavior using a Power BI dashboard. It explores how investment preferences vary by age, gender, savings goals, expected returns and risk appetite. The dashboard equips stakeholders with actionable insights to better understand investor motivations and trends across key financial instruments like mutual funds, fixed deposits, equities and debentures.
+
+![Screenshot (481)](https://github.com/user-attachments/assets/df499f96-b0b0-43fb-a6a6-f196b0eee06e)
 
 
 ##  Introduction
@@ -86,13 +88,13 @@ Visual elements include:
 - **Risk and Return** are balanced across other age groups, especially younger and older adults.
 
 
-##  Strategic Recommendations
+##  Recommendations
 
 1. **Develop Flexible Investment Products**  
    To appeal to investors sensitive to locking periods, especially those aged 26–30.
 
 2. **Segment Product Messaging by Motivation**  
-   Tailor marketing strategies to focus on tax benefits, returns, or diversification depending on the investor’s expected ROI.
+   Tailor marketing strategies to focus on tax benefits, returns or diversification depending on the investor’s expected ROI.
 
 3. **Re-engage Female Investors**  
    Educate and incentivize investment in equities and mutual funds where engagement is currently low.
@@ -101,7 +103,7 @@ Visual elements include:
    Capitalize on an underrepresented goal by launching plans tailored for education funding.
 
 5. **Targeted Campaigns by Age Group**  
-   Use age-based personas to deliver personalized messaging that aligns with motivators like stability, growth, or flexibility.
+   Use age-based personas to deliver personalized messaging that aligns with motivators like stability, growth or flexibility.
 
 
 ## Conclusion
